@@ -37,7 +37,7 @@ You can either import everything as an Eclipse project, adjust the Build path an
 
 # Maps
 
-The textures are taken from the [http://visibleearth.nasa.gov/view_set.php?categoryId=2363&p=1](NASA's Blue Marble project). 
+The textures are taken from the [NASA's Blue Marble project](http://visibleearth.nasa.gov/view_set.php?categoryId=2363&p=1). 
 
 
 # GeoIP
@@ -49,7 +49,7 @@ The GeoIP lookup is done using a GeoIP database:
 	acknowledgment: "This product includes GeoLite data created by MaxMind, 
 	available from http://www.maxmind.com/."
 
-You can download the current GeoIP database [http://geolite.maxmind.com/download/geoip/database/](here).
+You can download the current GeoIP database [here](http://geolite.maxmind.com/download/geoip/database/).
 
 
 # License
